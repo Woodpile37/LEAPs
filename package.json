@@ -31,7 +31,7 @@
     "gatsby-remark-static-images": "1.2.1",
     "gatsby-source-filesystem": "3.9.0",
     "gatsby-transformer-remark": "4.6.0",
-    "glob": "7.1.7",
+    "glob": "10.3.3",
     "lodash": "4.17.21",
     "postcss": "8.2.6",
     "react": "17.0.1",
