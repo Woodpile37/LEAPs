@@ -41,7 +41,7 @@
     "yup": "0.32.9"
   },
   "devDependencies": {
-    "@types/react-helmet": "6.1.2",
+    "@types/react-helmet": "6.1.6",
     "@typescript-eslint/eslint-plugin": "6.2.0",
     "@typescript-eslint/parser": "6.2.1",
     "eslint": "7.30.0",
